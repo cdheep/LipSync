@@ -2,6 +2,9 @@
 
 Convert silent lip-movement videos into text-based speech using deep learning.
 
+![Screenshot 2025-04-14 205935](https://github.com/user-attachments/assets/6390b76d-600d-4430-9682-eebedc224080)
+
+
 Lip-to-Speech is a deep learning pipeline that transforms silent video of lip movements into text-based speech. It uses a 3D convolutional feature extractor, bidirectional LSTM, and CTC loss to align sequence outputs without frame‑level labels. Trained on mouth ROI frames, it outputs transcriptions and synthesized speech accurately in near real-time.
 
 
