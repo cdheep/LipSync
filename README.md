@@ -82,7 +82,7 @@ _For full details see [LipNet.ipynb](./LipNet.ipynb)._
 ## Results
 
 - For detailed training curves, evaluation metrics (WER/CER) and sample outputs, see the [LipNet notebook](./LipNet.ipynb).  
-- Listen to the generated speech in [predicted_Speech.mp3](./predicted_Speech.mp3).
+- Listen to the generated speech in [predicted_Speech.mp3](./predicted_speech.mp3).
 - ![Screenshot 2025-04-15 111147](https://github.com/user-attachments/assets/a51e2483-6757-4b90-bed9-6b720782ed34)
 
 
